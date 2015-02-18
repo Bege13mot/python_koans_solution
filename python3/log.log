@@ -1,0 +1,1026 @@
+
+Thinking AboutAsserts
+  test_a_better_way_of_asserting_equality has expanded your awareness.
+  test_assert_equality has expanded your awareness.
+  test_assert_truth has expanded your awareness.
+  test_assert_with_message has expanded your awareness.
+  test_fill_in_values has expanded your awareness.
+  test_that_sometimes_we_need_to_know_the_class_type has expanded your awareness.
+  test_that_unittest_asserts_work_the_same_way_as_python_asserts has expanded your awareness.
+
+Thinking AboutStrings
+  test_adjacent_strings_are_concatenated_automatically has expanded your awareness.
+  test_double_quoted_strings_are_strings has expanded your awareness.
+  test_escaping_quotes_at_the_end_of_triple_quoted_string has expanded your awareness.
+  test_most_strings_interpret_escape_characters has expanded your awareness.
+  test_plus_concatenates_strings has expanded your awareness.
+  test_plus_equals_also_leaves_original_string_unmodified has expanded your awareness.
+  test_plus_equals_will_append_to_end_of_string has expanded your awareness.
+  test_plus_will_not_modify_original_strings has expanded your awareness.
+  test_raw_strings_are_also_strings has expanded your awareness.
+  test_single_quoted_strings_are_also_strings has expanded your awareness.
+  test_triple_quote_strings_are_also_strings has expanded your awareness.
+  test_triple_quoted_strings_can_span_lines has expanded your awareness.
+  test_triple_quoted_strings_need_less_escaping has expanded your awareness.
+  test_triple_single_quotes_work_too has expanded your awareness.
+  test_use_backslash_at_the_end_of_a_line_to_continue_onto_the_next_line has expanded your awareness.
+  test_use_backslash_for_escaping_quotes_in_strings has expanded your awareness.
+  test_use_double_quotes_to_create_strings_with_single_quotes has expanded your awareness.
+  test_use_single_quotes_to_create_string_with_double_quotes has expanded your awareness.
+
+Thinking AboutNone
+  test_none_is_an_object has expanded your awareness.
+  test_none_is_distinct has expanded your awareness.
+  test_none_is_universal has expanded your awareness.
+  test_what_exception_do_you_get_when_calling_nonexistent_methods has expanded your awareness.
+
+Thinking AboutLists
+  test_accessing_list_elements has expanded your awareness.
+  test_creating_lists has expanded your awareness.
+  test_insertions has expanded your awareness.
+  test_list_literals has expanded your awareness.
+  test_lists_and_ranges has expanded your awareness.
+  test_making_queues has expanded your awareness.
+  test_popping_lists has expanded your awareness.
+  test_ranges_with_steps has expanded your awareness.
+  test_slicing_lists has expanded your awareness.
+  test_slicing_to_the_edge has expanded your awareness.
+
+Thinking AboutListAssignments
+  test_non_parallel_assignment has expanded your awareness.
+  test_parallel_assignments has expanded your awareness.
+  test_parallel_assignments_with_extra_values has expanded your awareness.
+  test_parallel_assignments_with_sublists has expanded your awareness.
+  test_swapping_with_parallel_assignment has expanded your awareness.
+
+Thinking AboutDictionaries
+  test_accessing_dictionaries has expanded your awareness.
+  test_changing_dictionaries has expanded your awareness.
+  test_creating_dictionaries has expanded your awareness.
+  test_dictionary_is_unordered has expanded your awareness.
+  test_dictionary_keys_and_values has expanded your awareness.
+  test_dictionary_literals has expanded your awareness.
+  test_making_a_dictionary_from_a_sequence_of_keys has expanded your awareness.
+
+Thinking AboutStringManipulation
+  test_any_python_expression_may_be_interpolated has expanded your awareness.
+  test_formatted_values_can_be_shown_in_any_order_or_be_repeated has expanded your awareness.
+  test_raw_strings_do_not_interpret_escape_characters has expanded your awareness.
+  test_single_characters_can_be_represented_by_integers has expanded your awareness.
+  test_strings_can_be_joined has expanded your awareness.
+  test_strings_can_be_split has expanded your awareness.
+  test_strings_can_be_split_with_different_patterns has expanded your awareness.
+  test_strings_can_change_case has expanded your awareness.
+  test_use_format_to_interpolate_variables has expanded your awareness.
+  test_you_can_get_a_single_character_from_a_string has expanded your awareness.
+  test_you_can_get_a_substring_from_a_string has expanded your awareness.
+
+Thinking AboutTuples
+  test_creating_a_tuple has expanded your awareness.
+  test_creating_empty_tuples has expanded your awareness.
+  test_tuple_constructor_can_be_surprising has expanded your awareness.
+  test_tuples_are_good_for_representing_records has expanded your awareness.
+  test_tuples_are_immutable_so_appending_is_not_possible has expanded your awareness.
+  test_tuples_are_immutable_so_item_assignment_is_not_possible has expanded your awareness.
+  test_tuples_can_be_embedded has expanded your awareness.
+  test_tuples_can_only_be_changed_through_replacement has expanded your awareness.
+  test_tuples_of_one_look_peculiar has expanded your awareness.
+
+Thinking AboutMethods
+  test_attributes_with_double_underscore_prefixes_are_subject_to_name_mangling has expanded your awareness.
+  test_calling_a_global_function has expanded your awareness.
+  test_calling_functions_with_wrong_number_of_arguments has expanded your awareness.
+  test_calling_methods_in_other_objects has expanded your awareness.
+  test_calling_methods_in_same_class_with_explicit_receiver has expanded your awareness.
+  test_calling_with_default_values has expanded your awareness.
+  test_calling_with_variable_arguments has expanded your awareness.
+  test_functions_without_self_arg_are_global_functions has expanded your awareness.
+  test_methods_that_do_nothing_need_to_use_pass_as_a_filler has expanded your awareness.
+  test_no_indentation_required_for_one_line_statement_bodies has expanded your awareness.
+  test_pass_does_nothing_at_all has expanded your awareness.
+  test_private_access_is_implied_but_not_enforced has expanded your awareness.
+  test_that_old_methods_are_hidden_by_redefinitions has expanded your awareness.
+  test_that_overlapped_method_is_still_there has expanded your awareness.
+  test_the_documentation_can_be_viewed_with_the_doc_method has expanded your awareness.
+  test_which_does_not_return_anything has expanded your awareness.
+
+Thinking AboutControlStatements
+  test_break_statement has expanded your awareness.
+  test_continue_statement has expanded your awareness.
+  test_for_statement has expanded your awareness.
+  test_for_statement_with_tuples has expanded your awareness.
+  test_if_then_elif_else_statements has expanded your awareness.
+  test_if_then_else_statements has expanded your awareness.
+  test_if_then_statements has expanded your awareness.
+  test_while_statement has expanded your awareness.
+
+Thinking AboutTrueAndFalse
+  test_blank_strings_are_treated_as_false has expanded your awareness.
+  test_empty_collections_are_treated_as_false has expanded your awareness.
+  test_everything_else_is_treated_as_true has expanded your awareness.
+  test_false_is_treated_as_false has expanded your awareness.
+  test_none_is_treated_as_false has expanded your awareness.
+  test_true_is_treated_as_true has expanded your awareness.
+  test_zero_is_treated_as_false has expanded your awareness.
+
+Thinking AboutSets
+  test_convert_the_set_into_a_list_to_sort_it has expanded your awareness.
+  test_creating_sets_using_strings has expanded your awareness.
+  test_dictionaries_and_sets_use_same_curly_braces has expanded your awareness.
+  test_empty_sets_have_different_syntax_to_populated_sets has expanded your awareness.
+  test_set_have_arithmetic_operators has expanded your awareness.
+  test_sets_make_keep_lists_unique has expanded your awareness.
+  test_we_can_compare_subsets has expanded your awareness.
+  test_we_can_query_set_membership has expanded your awareness.
+
+Thinking AboutTriangleProject
+  test_equilateral_triangles_have_equal_sides has expanded your awareness.
+  test_isosceles_triangles_have_exactly_two_sides_equal has expanded your awareness.
+  test_scalene_triangles_have_no_equal_sides has expanded your awareness.
+
+Thinking AboutExceptions
+  test_else_clause has expanded your awareness.
+  test_exceptions_inherit_from_exception has expanded your awareness.
+  test_finally_clause has expanded your awareness.
+  test_raising_a_specific_error has expanded your awareness.
+  test_try_clause has expanded your awareness.
+
+Thinking AboutTriangleProject2
+  test_illegal_triangles_throw_exceptions has expanded your awareness.
+
+Thinking AboutIteration
+  test_all_iteration_methods_work_on_any_sequence_not_just_lists has expanded your awareness.
+  test_filter_selects_certain_items_from_a_list has expanded your awareness.
+  test_iterating_with_next has expanded your awareness.
+  test_iterators_are_a_type has expanded your awareness.
+  test_just_return_first_item_found has expanded your awareness.
+  test_map_transforms_elements_of_a_list has expanded your awareness.
+  test_reduce_will_blow_your_mind has expanded your awareness.
+  test_use_pass_for_iterations_with_no_body has expanded your awareness.
+
+Thinking AboutComprehension
+  test_creating_a_dictionary_with_dictionary_comprehension has expanded your awareness.
+  test_creating_a_set_with_set_comprehension has expanded your awareness.
+  test_creating_lists_with_list_comprehensions has expanded your awareness.
+  test_double_list_comprehension has expanded your awareness.
+  test_filtering_lists_with_list_comprehensions has expanded your awareness.
+  test_unpacking_tuples_in_list_comprehensions has expanded your awareness.
+
+Thinking AboutGenerators
+  test_before_sending_a_value_to_a_generator_next_must_be_called has expanded your awareness.
+  test_coroutines_can_take_arguments has expanded your awareness.
+  test_generating_values_on_the_fly has expanded your awareness.
+  test_generator_expressions_are_a_one_shot_deal has expanded your awareness.
+  test_generator_keeps_track_of_local_variables has expanded your awareness.
+  test_generator_method_will_yield_values_during_iteration has expanded your awareness.
+  test_generator_method_with_parameter has expanded your awareness.
+  test_generators_are_different_to_list_comprehensions has expanded your awareness.
+  test_generators_can_see_if_they_have_been_called_with_a_value has expanded your awareness.
+  test_generators_can_take_coroutines has expanded your awareness.
+  test_send_none_is_equivalent_to_next has expanded your awareness.
+
+Thinking AboutLambdas
+  test_accessing_lambda_via_assignment has expanded your awareness.
+  test_accessing_lambda_without_assignment has expanded your awareness.
+  test_lambdas_can_be_assigned_to_variables_and_called_explicitly has expanded your awareness.
+
+Thinking AboutScoringProject
+  test_ones_not_left_out has expanded your awareness.
+  test_score_of_a_single_roll_of_1_is_100 has expanded your awareness.
+  test_score_of_a_single_roll_of_5_is_50 has expanded your awareness.
+  test_score_of_a_triple_1_is_1000 has expanded your awareness.
+  test_score_of_an_empty_list_is_zero has expanded your awareness.
+  test_score_of_mixed_is_sum has expanded your awareness.
+  test_score_of_multiple_1s_and_5s_is_the_sum_of_individual_scores has expanded your awareness.
+  test_score_of_other_triples_is_100x has expanded your awareness.
+  test_score_of_single_2s_3s_4s_and_6s_are_zero has expanded your awareness.
+
+Thinking AboutClasses
+  test_all_objects_support_str_and_repr has expanded your awareness.
+  test_args_must_match_init has expanded your awareness.
+  test_classes_have_docstrings has expanded your awareness.
+  test_creating_properties_with_decorators_is_slightly_easier has expanded your awareness.
+  test_different_objects_have_different_instance_variables has expanded your awareness.
+  test_init_method_is_the_constructor has expanded your awareness.
+  test_init_provides_initial_values_for_instance_variables has expanded your awareness.
+  test_inside_a_method_self_refers_to_the_containing_object has expanded your awareness.
+  test_instances_of_classes_can_be_created_adding_parentheses has expanded your awareness.
+  test_private_attributes_are_not_really_private has expanded your awareness.
+  test_repr_provides_a_more_complete_string_version has expanded your awareness.
+  test_str_is_used_explicitly_in_string_interpolation has expanded your awareness.
+  test_str_provides_a_string_version_of_the_object has expanded your awareness.
+  test_that_name_can_be_read_as_a_property has expanded your awareness.
+  test_you_can_also_access_the_value_out_using_getattr_and_dict has expanded your awareness.
+
+Thinking AboutWithStatements
+  test_counting_lines has expanded your awareness.
+  test_counting_lines2 has expanded your awareness.
+  test_finding_lines has expanded your awareness.
+  test_finding_lines2 has expanded your awareness.
+  test_open_already_has_its_own_built_in_context_manager has expanded your awareness.
+
+Thinking AboutMonkeyPatching
+  test_after_patching_dogs_can_both_wag_and_bark has expanded your awareness.
+  test_as_defined_dogs_do_bark has expanded your awareness.
+  test_most_built_in_classes_cannot_be_monkey_patched has expanded your awareness.
+  test_subclasses_of_built_in_classes_can_be_be_monkey_patched has expanded your awareness.
+
+Thinking AboutDiceProject
+  test_can_create_a_dice_set has expanded your awareness.
+  test_dice_values_do_not_change_unless_explicitly_rolled has expanded your awareness.
+  test_dice_values_should_change_between_rolls has expanded your awareness.
+  test_rolling_the_dice_returns_a_set_of_integers_between_1_and_6 has expanded your awareness.
+  test_you_can_roll_different_numbers_of_dice has expanded your awareness.
+
+Thinking AboutMethodBindings
+  test_functions_can_have_inner_functions has expanded your awareness.
+  test_functions_have_attributes has expanded your awareness.
+  test_get_descriptor_resolves_attribute_binding has expanded your awareness.
+  test_inner_functions_are_unbound has expanded your awareness.
+  test_methods_are_also_bound_to_a_function has expanded your awareness.
+  test_methods_are_bound_to_an_object has expanded your awareness.
+  test_methods_have_different_attributes has expanded your awareness.
+  test_set_descriptor_changes_behavior_of_attribute_assignment_changes has expanded your awareness.
+  test_setting_attributes_on_a_bound_method_directly has expanded your awareness.
+  test_setting_attributes_on_an_unbound_function has expanded your awareness.
+  test_setting_attributes_on_methods_by_accessing_the_inner_function has expanded your awareness.
+
+Thinking AboutDecoratingWithFunctions
+  test_decorators_can_change_a_function_output has expanded your awareness.
+  test_decorators_can_modify_a_function has expanded your awareness.
+
+Thinking AboutDecoratingWithClasses
+  test_decorator_with_an_argument has expanded your awareness.
+  test_decorator_with_no_arguments has expanded your awareness.
+  test_documentor_which_already_has_a_docstring has expanded your awareness.
+  test_partial_that_wrappers_all_args has expanded your awareness.
+  test_partial_that_wrappers_first_arg has expanded your awareness.
+  test_partial_that_wrappers_no_args has expanded your awareness.
+  test_we_can_chain_decorators has expanded your awareness.
+  test_what_a_decorator_is_doing_to_a_function has expanded your awareness.
+
+Thinking AboutInheritance
+  test_base_init_does_not_get_called_automatically has expanded your awareness.
+  test_base_init_has_to_be_called_explicitly has expanded your awareness.
+  test_instances_inherit_behavior_from_parent_class has expanded your awareness.
+  test_subclasses_add_new_behavior has expanded your awareness.
+  test_subclasses_can_invoke_parent_behavior_via_super has expanded your awareness.
+  test_subclasses_can_modify_existing_behavior has expanded your awareness.
+  test_subclasses_have_the_parent_as_an_ancestor has expanded your awareness.
+  test_super_works_across_methods has expanded your awareness.
+  test_this_all_classes_in_python_3_ultimately_inherit_from_object_class has expanded your awareness.
+
+Thinking AboutMultipleInheritance
+  test_base_class_methods_are_also_available_in_the_object has expanded your awareness.
+  test_base_class_methods_can_affect_instance_variables_in_the_object has expanded your awareness.
+  test_confirm_the_mro_controls_the_calling_order has expanded your awareness.
+  test_left_hand_side_inheritance_tends_to_be_higher_priority has expanded your awareness.
+  test_normal_methods_are_available_in_the_object has expanded your awareness.
+  test_super_class_methods_are_higher_priority_than_super_super_classes has expanded your awareness.
+  test_we_can_inspect_the_method_resolution_order has expanded your awareness.
+
+Thinking AboutScope
+  test_bare_bones_class_names_do_not_assume_the_current_scope has expanded your awareness.
+  test_constants_are_assumed_by_convention_only has expanded your awareness.
+  test_constants_are_defined_with_an_initial_uppercase_letter has expanded your awareness.
+  test_dog_is_not_available_in_the_current_scope has expanded your awareness.
+  test_getting_something_locally has expanded your awareness.
+  test_getting_something_nonlocally has expanded your awareness.
+  test_global_attributes_can_be_created_in_the_middle_of_a_class has expanded your awareness.
+  test_incrementing_with_global_counter has expanded your awareness.
+  test_incrementing_with_local_counter has expanded your awareness.
+  test_nested_string_is_not_the_same_as_the_system_string has expanded your awareness.
+  test_str_without_self_prefix_stays_in_the_global_scope has expanded your awareness.
+  test_you_can_reference_nested_classes_using_the_scope_operator has expanded your awareness.
+
+Thinking AboutModules
+  test_a_module_can_choose_which_attributes_are_available_to_wildcards has expanded your awareness.
+  test_importing_all_module_attributes_at_once has expanded your awareness.
+  test_importing_attributes_from_classes_using_from_keyword has expanded your awareness.
+  test_importing_other_python_scripts_as_modules has expanded your awareness.
+  test_modules_hide_attributes_prefixed_by_underscores has expanded your awareness.
+  test_private_attributes_are_still_accessible_in_modules has expanded your awareness.
+  test_we_can_import_multiple_items_at_once has expanded your awareness.
+
+Thinking AboutPackages
+  test_import_a_module_in_a_subfolder_folder_using_an_absolute_path has expanded your awareness.
+  test_subfolders_become_modules_if_they_have_an_init_module has expanded your awareness.
+  test_subfolders_can_form_part_of_a_module_package has expanded your awareness.
+  test_use_absolute_imports_to_import_upper_level_modules has expanded your awareness.
+
+Thinking AboutClassAttributes
+  test_classes_and_instances_do_not_share_instance_attributes has expanded your awareness.
+  test_classes_and_instances_do_share_class_attributes has expanded your awareness.
+  test_classes_are_objects_too has expanded your awareness.
+  test_classes_are_types has expanded your awareness.
+  test_classes_have_methods has expanded your awareness.
+  test_classmethods_are_not_independent_of_instance_methods has expanded your awareness.
+  test_classmethods_can_not_be_used_as_properties has expanded your awareness.
+  test_creating_objects_without_defining_a_class has expanded your awareness.
+  test_defining_attributes_on_individual_objects has expanded your awareness.
+  test_defining_functions_on_individual_objects has expanded your awareness.
+  test_heres_an_easy_way_to_explicitly_call_class_methods_from_instance_methods has expanded your awareness.
+  test_objects_are_objects has expanded your awareness.
+  test_objects_have_methods has expanded your awareness.
+  test_other_objects_are_not_affected_by_these_singleton_functions has expanded your awareness.
+  test_since_classes_are_objects_you_can_define_singleton_methods_on_them_too has expanded your awareness.
+  test_staticmethods_also_overshadow_instance_methods has expanded your awareness.
+  test_staticmethods_are_unbound_functions_housed_in_a_class has expanded your awareness.
+  test_you_can_define_class_methods_without_using_a_decorator has expanded your awareness.
+  test_you_can_define_static_methods_without_using_a_decorator has expanded your awareness.
+
+Thinking AboutAttributeAccess
+  test_all_attribute_reads_are_caught has expanded your awareness.
+  test_calling_getattribute_causes_an_attribute_error has expanded your awareness.
+  test_calling_undefined_functions_normally_results_in_errors has expanded your awareness.
+  test_changes_to_the_getattribute_implementation_affects_getattr_function has expanded your awareness.
+  test_foo_attributes_are_caught has expanded your awareness.
+  test_getattr_ignores_known_attributes has expanded your awareness.
+  test_getattr_only_catches_unknown_attributes has expanded your awareness.
+  test_getattribute_is_a_bit_overzealous_sometimes has expanded your awareness.
+  test_in_this_case_private_attributes_remain_unmangled has expanded your awareness.
+  test_intercepting_return_values_can_disrupt_the_call_chain has expanded your awareness.
+  test_it_mangles_some_internal_attributes has expanded your awareness.
+  test_it_modifies_external_attribute_as_expected has expanded your awareness.
+  test_non_foo_messages_are_treated_normally has expanded your awareness.
+  test_setattr_intercepts_attribute_assignments has expanded your awareness.
+
+Thinking AboutDeletingObjects
+  test_another_way_to_make_a_deletable_property has expanded your awareness.
+  test_del_can_remove_attributes has expanded your awareness.
+  test_del_can_remove_entire_lists has expanded your awareness.
+  test_del_can_remove_slices has expanded your awareness.
+  test_del_works_with_properties has expanded your awareness.
+  tests_del_can_be_overriden has expanded your awareness.
+
+Thinking AboutProxyObjectProject
+  test_proxy_method_returns_wrapped_object has damaged your karma.
+
+You have not yet reached enlightenment ...
+  RuntimeError: maximum recursion depth exceeded while calling a Python object
+
+Please meditate on the following code:
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 54, in test_proxy_method_returns_wrapped_object
+    tv = Proxy(Television())
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 25, in __init__
+    self._obj = target_object
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 33, in __setattr__
+    setattr(self._obj, key, value)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+  File "I:\FILES\python_koans\python3\koans\about_proxy_object_project.py", line 29, in __getattr__
+    return getattr(self._obj, attr)
+
+
+You have completed 284 koans and 35 lessons.
+You are now 18 koans and 2 lessons away from reaching enlightenment.
+
+Although that way may not be obvious at first unless you're Dutch.

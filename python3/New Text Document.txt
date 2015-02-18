@@ -1,0 +1,2 @@
+cd /d I:\FILES\python_koans\python3
+python contemplate_koans.py
